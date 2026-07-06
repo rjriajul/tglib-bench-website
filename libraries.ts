@@ -61,12 +61,7 @@ export const libraries: Library[] = [
     link: "https://github.com/gotd/td",
   },
   {
-    slug: "11_teleproto",
-    name: "teleproto",
-    link: "https://github.com/sanyok12345/teleproto",
-  },
-  {
-    slug: "12_wzgram",
+    slug: "11_wzgram",
     name: "wzgram",
     link: "https://github.com/rjriajul/wzgram",
   },
